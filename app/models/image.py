@@ -1,0 +1,1 @@
+# Image metadata Pydantic model

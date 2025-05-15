@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.env
+
+# Data
+data/*.png
+data/*.jpg
+data/*.jpeg
+data/images/
+data/training_data/
+data/models/
+data/db.sqlite
+data/*.jsonl
+
+# Notebooks checkpoints
+*.ipynb_checkpoints/
+
+# Logs and temp
+*.log
+*.tmp
+.DS_Store
+
+# VSCode
+.vscode/

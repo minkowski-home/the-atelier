@@ -1,1 +1,1 @@
-# the-atelier
+# Project overview and usage instructions
